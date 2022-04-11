@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hunkenstein
+- 👋 Hi, I’m Gbolahan
 - 👀 I’m interested in ...learning, collaborating and showcasing m work
 - 🌱 I’m currently learning ...Python, SQL
 - 💞️ I’m looking to collaborate on ... coding
